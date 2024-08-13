@@ -23,13 +23,13 @@ This is a Python tool for encrypting and decrypting images using pixel manipulat
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/image-encryption-tool.git
+    git clone https://github.com/ERap2022/PRODIGY_CS_02.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd image-encryption-tool
+    cd PRODIGY_CS_02
     ```
 
 3. Install the required packages:
